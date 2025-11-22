@@ -1,5 +1,7 @@
 # Resume Chat (Next.js + Tailwind)
 
+Backend (Express server – PDF parse): https://github.com/lil-bunny/jobtalk_backend
+
 A modular, responsive ChatGPT-like UI that unlocks after uploading a resume.
 
 ## Features
